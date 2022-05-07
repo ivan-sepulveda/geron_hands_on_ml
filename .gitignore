@@ -1,0 +1,2 @@
+# Ignore this model because it's 128MB in size
+forest_reg_model.pkl
